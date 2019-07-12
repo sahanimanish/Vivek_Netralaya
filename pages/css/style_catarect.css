@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat');
+*,
+body {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+
+  line-height: 30px;
+}
+
+.clr-p {
+  color: #0ad4a9;
+}
